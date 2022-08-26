@@ -4,8 +4,11 @@ I'm working for some translations, as well some more stuffs in the future. At th
 
 Formerly, I've been working with ReactOS to translate some various languages. But I cannot sync the fork right now, I might need start over as soon as possible in the future. I hope you like it.
 
+# Translations
+Below is the translation That i made it.
+
 Discord Translation (Unofficial)
-[![Crowdin](https://badges.crowdin.net/discordapp-revival/localized.svg)](https://crowdin.com/project/discordapp-revival)
+[![Crowdin](https://badges.crowdin.net/discordapp-revival/localized.svg)]
 
 <!--
 **PopuriAO29/PopuriAO29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
