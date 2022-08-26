@@ -9,10 +9,10 @@ Below is the translation That i made it.
 
 Discord Translation (Unofficial)
 
-# Contact us
-[Crossover Wonderland (aka Michelle Wonderland)](https://discord.gg/N24gCZJ)
-
 <a title="Crowdin" target="_blank" href="https://crowdin.com/project/discordapp-revival"><img src="https://badges.crowdin.net/discordapp-revival/localized.svg"></a>
+
+# Contact us
+[![Discord](https://img.shields.io/discord/339091715052797953?color=%237289DA&label=Michelle%20Wonderland&logo=discord&logoColor=white)](https://discord.gg/N24gCZJ)
 
 <!--
 **PopuriAO29/PopuriAO29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
