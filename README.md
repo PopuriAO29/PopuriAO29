@@ -9,7 +9,7 @@ Below is the translation That i made it.
 
 Discord Translation (Unofficial)
 
-https://badges.crowdin.net/discordapp-revival/localized.svg
+[https://badges.crowdin.net/discordapp-revival/localized.svg]
 
 <!--
 **PopuriAO29/PopuriAO29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
