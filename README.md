@@ -9,6 +9,9 @@ Below is the translation That i made it.
 
 Discord Translation (Unofficial)
 
+# Contact us
+[Crossover Wonderland (aka Michelle Wonderland)](https://discord.gg/N24gCZJ)
+
 <a title="Crowdin" target="_blank" href="https://crowdin.com/project/discordapp-revival"><img src="https://badges.crowdin.net/discordapp-revival/localized.svg"></a>
 
 <!--
