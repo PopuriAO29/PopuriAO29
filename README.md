@@ -7,7 +7,7 @@ Formerly, I've been working with ReactOS to translate some various languages. Bu
 # Translations
 Below is the translation That i made it.
 
-Discord Translation (Unofficial) - Localized: 43%
+Discord Translation (Unofficial) - Localized: 48%
 
 # Contact us
 [![Discord](https://img.shields.io/discord/339091715052797953?color=%237289DA&label=Michelle%20Wonderland&logo=discord&logoColor=white)](https://discord.gg/N24gCZJ)
