@@ -4,10 +4,14 @@ I'm working for some translations, as well some more stuffs in the future. At th
 
 Formerly, I've been working with ReactOS to translate some various languages. But I cannot sync the fork right now, I might need start over as soon as possible in the future. I hope you like it.
 
+As of right now, I usually do something random things.
+
+<!--
 # Translations
 Below is the translation That i made it.
 
-Discord Translation (Unofficial) - Localized: 50%
+Discord Translation (Unofficial) - Localized: 60%
+-->
 
 # Contact us
 [![Discord](https://img.shields.io/discord/339091715052797953?color=%237289DA&label=Michelle%20Wonderland&logo=discord&logoColor=white)](https://discord.gg/N24gCZJ)
